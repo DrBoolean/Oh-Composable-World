@@ -1,0 +1,24 @@
+{
+  "name": "oh-composable-world",
+  "version": "1.0.0",
+  "description": "React Rally 2016",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DrBoolean/Oh-Composable-World.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DrBoolean/Oh-Composable-World/issues"
+  },
+  "homepage": "https://github.com/DrBoolean/Oh-Composable-World#readme",
+  "dependencies": {
+    "data.either": "^1.4.0",
+    "data.task": "^3.1.0",
+    "futurize": "^1.0.2"
+  }
+}
