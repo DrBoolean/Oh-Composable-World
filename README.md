@@ -7,3 +7,6 @@ Examples throughout slides.
 
 Composed Application:
 https://jsfiddle.net/cnsn8yk2/9/
+
+Slides:
+https://www.slideshare.net/drboolean/oh-composable-world
